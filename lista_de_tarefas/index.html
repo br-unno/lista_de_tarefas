@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Sistema de Controle de Tarefas</h1>
+
+        <div class="form">
+            <input id="taskTitle" type="text" placeholder="Título da tarefa">
+            <textarea id="taskDesc" placeholder="Descrição (opcional)"></textarea>
+            <button onclick="addTask()">Adicionar Tarefa</button>
+        </div>
+
+        <h2>Minhas Tarefas</h2>
+        <div id="taskList"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
