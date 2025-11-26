@@ -28,4 +28,4 @@ Clique duas vezes no arquivo index.html para abrir no navegador.
 O sistema já estará funcionando.
 
 Vídeo de apresentação
-Adicionar aqui o link do vídeo no YouTube.
+https://youtu.be/90q-xhWubrk
